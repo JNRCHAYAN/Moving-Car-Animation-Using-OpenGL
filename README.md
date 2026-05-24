@@ -53,13 +53,13 @@ The car continuously moves across the road, and users can control the speed usin
 
 ## Demo Image 1
 
-![Demo 1](images/demo1.png)
+![Demo 1](images/1.png)
 
 ---
 
 ## Demo Image 2
 
-![Demo 2](images/demo2.png)
+![Demo 2](images/2.png)
 
 ---
 
@@ -68,8 +68,6 @@ The car continuously moves across the road, and users can control the speed usin
 YouTube Demo Video:
 
 👉 https://www.youtube.com/watch?v=YOUR_VIDEO_LINK
-
-Replace `YOUR_VIDEO_LINK` with your actual uploaded YouTube video.
 
 ---
 
@@ -94,7 +92,7 @@ Moving-Car-Animation/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Moving-Car-Animation.git
+git clone https://github.com/JNRCHAYAN/Moving-Car-Animation-Using-OpenGL.git
 ```
 
 ---

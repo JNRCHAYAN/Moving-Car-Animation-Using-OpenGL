@@ -66,9 +66,8 @@ The car continuously moves across the road, and users can control the speed usin
 # 🎥 Demo Video
 
 YouTube Demo Video:
-    (Video.mp4)
 
-👉 https://www.youtube.com/watch?v=YOUR_VIDEO_LINK
+👉 https://youtu.be/WKc2avebgHU
 
 ---
 
